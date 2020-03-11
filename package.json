@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "license": "MIT",
-  "repository": "https://github.com/the-couch/rimp",
+  "repository": "https://github.com/alexveljkovic/rimp",
   "author": "iamkevingreen",
   "scripts": {
     "lint": "standard '*.js' --fix",
